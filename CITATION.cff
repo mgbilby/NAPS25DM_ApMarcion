@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Data Mining Marcion's Apostolos
+type: dataset
+authors:
+  - given-names: Mark
+    family-names: Bilby
+    affiliation: Principal, Clavis Consulting, LLC, Kansas
+    orcid: https://orcid.org/0000-0003-0100-6634
+abstract: >
+  What makes data heretical?
+  As it turns out, lots of intricate editorial decisions about how to render and present a critical edition.
+  Contrast this with the technical acumen, network-building, and persistence required to normalize/standardize data and incorporate it into larger Digital Humanities corpora and Data Science analysis workflows.
+  Once we start creating, curating, and refining normalized Marcionite data, there is no end to what we can do with it.
+license: CC-BY-SA-4.0
+date-released: 2025-05-23
+references:
+  - type: doi
+    value: 10.5281/zenodo.15513295
+    citation: Bilby, Mark G.. "Data Mining Marcion's Apostolos." Presented at the North American Patristics Society, Chicago, IL, May 23, 2025.

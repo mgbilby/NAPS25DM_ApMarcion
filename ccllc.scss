@@ -1,0 +1,146 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: 'Garamond', 
+sans-serif !default;
+$presentation-font-size-root: 30px !default;
+$presentation-font-smaller: 0.75 !default;
+
+// colors
+$body-bg: #1e1e1e !default;       // Dark background
+$body-color: #f0f0f0 !default;    // Light text for dark theme
+$link-color: #008080  !default;    // Optional: make links aqua too
+
+$code-bg: $body-color !default;
+$code-color: $body-bg !default;
+
+$code-block-bg: $body-color !default;
+$code-block-border-color: $body-color !default;
+
+$presentation-heading-color: #008080 !default; // Classic Teal
+
+
+/*-- scss:rules --*/
+
+.picture {
+  border-style: solid;
+  border-width: 3pt;
+  border-color: $body-color;
+  border-radius: 50%;
+  padding: 5pt;
+  height: 50%;
+  width: auto;
+}
+
+#title-slide {
+  text-align: left;
+  font-size: 24px;
+
+  .subtitle {
+    font-style: italic;
+    // font-size: 80%;
+    color: #008080;
+  }
+
+  .institute,
+  .quarto-title-affiliation,
+  .quarto-title-author-email {
+    font-style: italic;
+    // font-size: 80%;
+    color: #4e4a40;
+  }
+
+  .author,
+  .quarto-title-author-name {
+    color: $body-color;
+  }
+
+  .quarto-title-authors {
+    display: flex;
+    justify-content: center;
+
+    .quarto-title-author {
+      padding-left: 0em;
+      padding-right: 0em;
+      width: 100%;
+    }
+
+    
+  }
+
+  p.author::before,
+  div.quarto-title-author::before {
+    content: "";
+    display: block;
+    border: none;
+    background-color: #008080; 
+    color: $body-color;
+    height: 3px;
+    margin-bottom: 1em;
+  }
+
+  // p, a {
+  //   color: #7F7F7F;
+  // }
+}
+
+.footer {
+  bottom: 10px !important;
+  color: $body-color !important;
+  font-size: x-small !important;
+}
+
+.slide-logo {
+  display: block !important;
+  position: fixed !important;
+  top: 1% !important;
+  right: 1% !important;
+  max-height: 15% !important;
+  height: 12% !important;
+  width: auto !important;
+  color: $body-color !important;
+}
+
+.slide-menu-button {
+  left: 10px !important;
+  bottom: 10px !important;
+}
+
+.slide-number,
+.reveal.has-logo .slide-number {
+  bottom: 10px !important;
+  right: 10px !important;
+  top: unset !important;
+  color: $link-color !important;
+}
+
+.cell-output {
+  border: 1px solid $body-color;
+  border-radius: 4px;
+}
+
+code.sourceCode>span {
+  color: $body-bg !important;
+}
+
+.center-x {
+  text-align: center;
+}
+
+.center-xy {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translateY(-50%), translateX(-50%);
+  transform: translateY(-50%), translateX(-50%);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border-left: 10px solid $presentation-heading-color;
+  padding-left: 10px;
+}

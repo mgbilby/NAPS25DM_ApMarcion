@@ -1,0 +1,6 @@
+ With acknowledgement to Annette von Stockhausen for the Quarto template,
+ based on her presentation for the Patristic Text Archive entitled
+ „Kirchengeschichte im Digitalen – Digitales in der Kirchengeschichte“.
+ https://github.com/PatristicTextArchive/pta-analyse-presentation/tree/main
+ 
+ 

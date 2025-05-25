@@ -1,0 +1,490 @@
+---
+title: "Data Mining Marcion's Apostolos: <br>SRC@NAPS_2025"
+
+author: 
+  - name: Mark G. Bilby
+    orcid: https://orcid.org/0000-0003-0100-6634
+    affiliations: Principal, Clavis Consulting, LLC, Kansas
+
+date: 2025-05-23
+date-format: "YYYY-MM-DD"
+format: 
+  revealjs:
+    output-file: index
+    theme: [default, ccllc.scss]
+    slide-number: true 
+    show-slide-number: all
+    navigation-mode: vertical
+    controls: auto
+    controls-layout: edges
+    pause: true
+    touch: true
+    preview-links: true
+    embed-resources: true
+    footer: |
+        Mark G. Bilby:  Data Mining Marcion's Apostolos in Greek -- North American Patristics Society -- 2025 Annual Meeting
+    title-slide-attributes:
+        data-background-image: images/by-sa.png
+        data-background-size: 8% auto, 15% auto, 10% auto
+        data-background-position: bottom 5% right 1%, top 1% left 1%, bottom 15% right 1%
+revealjs-plugins:
+  - pointer
+---
+
+# Can Data Be Heretical?
+
+<br>
+<center>*And what would heretical data even look like?*</center>
+
+## What makes this heretical data (or not)?
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![August Hahn, TOC from <br>Thilo, *Codex Apocryphus*, 1832](images/Hahn_Ev_toc.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![August Hahn, Marcion's Gospel, <br>first modern Greek edition](images/Hahn_Ev_snippet.png)</center>
+:::
+
+::::
+
+
+
+## What makes this heretical data?
+
+:::: columns
+
+:::{.column width="50%"}
+<center>![van Manen, TOC, <br>in *Theologisch Tijdschrift*, 1887](images/Manen_Ap_toc.png)</center>
+:::
+
+:::{.column width="50%"}
+<center>![van Manen, Marcion's Apostle, <br>first modern Greek edition<br>nb: *Galatians only*](images/Manen_Ap_snippet.png)</center>
+:::
+
+::::
+
+
+
+## What makes this heretical data?
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Theodor Zahn, Marcion's Gospel (1892)](images/Zahn_Ev_snippet.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Theodor Zahn, Marcion's Apostle (1892)](images/Zahn_Ap_snippet.png)</center>
+:::
+
+::::
+
+## What makes this heretical data?
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Adolf von Harnack, Marcion's Gospel (1924)](images/Harnack_Ev_snippet.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Adolf von Harnack, Marcion's Apostle (1924)](images/Harnack_Ap_snippet.png)</center>
+:::
+
+::::
+
+## What makes this heretical data?
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Ulrich Schmid, Marcion's Apostle (1995)](images/Schmid_Ap_snippet.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Dieter Roth, Marcion's Gospel (2015)](images/Roth_Ev_snippet.png)</center>
+:::
+
+::::
+
+## *Raison d'écrire*
+
+<br>
+As the saying goes, 
+"Children are meant to be seen, not heard."
+<br><br>
+So also here,
+"Marcion's texts are meant to be seen, not heard,<br>
+neither *privately* nor *liturgically*."
+<br><br>
+Among editions of ancient Christian texts, Marcion's scriptures <br>
+seem uniquely and incapable *d'habitude* of being read aloud, <br>
+intrinsically *interdit* from reconstruction and performances as *scripts*.
+<br><br>
+What makes texts into heretical data is to render them<br>--in every way that matters--as *unperformable.*
+<br><br>
+<center>
+*Disclaimer: this is <em>not</em> a plug for the "Marcionite Church", <br>
+whose textual work is entirely lacking in rigor and merit, <br>
+even though [Wikipedians](https://web.archive.org/web/20250523105434/https://en.wikipedia.org/wiki/Gospel_of_Marcion) seem to think otherwise.</center>
+
+## Hermeneutics of Idiosyncratic Subjectivity
+<br>
+
+<center>
+Editions that have often been held up as definitive or authortative, <br><br>
+--Brill's fairly recent critical edition in particular-- <br><br>
+take to an almost absurd extreme the nuancing of indications <br>
+to represent the reconstructor's intricate feelings of doubt, <br>
+building convoluted bespoke systems of font styling <br>
+in an elaborate effort to represent those feelings.<br><br>
+
+*That is how to make and keep data heretical!*
+ </center>
+
+## Hermeneutics of Representational Obfuscation
+<br>
+
+<center>
+These editions often perform strange things in the *main running text*:
+<br>
+ 
+ - embedding variants within the text;
+ - switching languages in the presentation of the text;
+ - filling the text with labels such as "unattested" and "not present";
+ - placing descriptive/comparative commentary in the text;
+ - obsessively annotating custom indications of editorial doubt;
+ - and sometimes even skipping over well-attested wording because the attestations are too numerous and/or complex (!)
+
+<br><br>
+*That is how to make and keep data heretical!*
+</center>
+
+## Obfuscation in Action: Roth on Ev 6.43
+
+<center>![Dieter Roth, *The Text of Marcion's Gospel*, p. 415](images/Roth_on_Ev6.43.png)</center>
+
+Elsewhere, Roth quotes 8 attestations of this verse by 6 different authors:<br>
+
+ - Tertullian, *Marc.* 4.17.12 and five comparanda
+ - Origen, *princ.* 2.5.4
+ - Hippolytus, *Haer.* 10.19.3
+ - Ps-Tertullian, *Haer.* 6.2
+ - Philastrius, *Diver. heres.* 45.2
+ - Ps-Adamantius, *Dial.* 56.14-16, 58.11-13, 58.13-16
+
+*Yet Roth only ends up restoring 5 words*, compared to:
+
+ - Older: Hahn (14), Zahn (15), Harnack (13)
+ - Newer: BeDuhn (14), Klinghardt (13), Nicolotti (13)
+
+## Hermeneutics of Patristic Cartesianism
+<br><br>
+
+<center>
+These same editions also proceed on the basis of the premise that:<br><br>
+  ∵ the Church Fathers are our main source and starting point for the reconstruction of Marcion's scriptures in general;<br><br>
+  ∴ we can only have verifiable knowledge about a specific chapter, verse, phrase, or word if the Church Fathers attested to it.
+
+<br>
+I tend to call this mindset "Patristic Cartesianism".<br>
+One might better classify it as Naïve Patristic Verifiability.
+<br><br>
+
+*That is how to make and keep data heretical!*
+</center>
+
+## Hermeneutics of Probabilistic Pattern Verifiability
+<br><br>
+
+Let's contrast Naïve Patristic Verifiability with Probabilistic Pattern Verifiability.
+
+- Scientific knowledge, and modern data science in particular, is about observable data and verifiable data patterns.
+- These patterns are everywhere and in everything, if one takes the time, effort, and attention to observe them carefully.
+- Uncovering them, and using them to make probabilistic decisions at the macro and micro level, is essential to the practice of data science.
+
+# To be Useful & Usable, <br>Data Must be Normalized*
+
+<br><br><br><br>
+<center>*even heretical data</center>
+
+## Normalizing the Data
+<br>
+Data normalization means standardizing all the data in every way:
+
+ - character encodings (Unicode UTF-8)
+ - file types (CSV, TSV, XML)
+ - field types (location, text, attestations, notes, etc.)
+ - schema types (TEI-XML; e.g., Perseus, PTA) & validation
+ - identifier types (cts_urn; DOIs)
+ - version control (Git; Zenodo)
+ - distribution architecture
+    - CapiTainS: Citable APIs Protocols Interoperability Text Standards
+    - Github hooktest & release Action
+ - file copyright and licensing (Creative Commons)
+ - binary editorial rendering decisions
+ - structured apparatus, separate from main text & attestations
+
+## Normalized Decisions & Confidence Levels
+<br>
+
+<center>For attested wording, are there variants? If so, that's cool!<br>
+But--to paraphrase Winston Wolf--<br></center>
+ > *Pretty please, with sugar on top,* make a decision, render the wording, and cleanly encode the variants.
+
+<center>If you have complex feelings of doubt about verses or words, again, cool. <br>
+But--to paraphrase Chris Farley--</center>
+ > *Please, for the love of God,* stop making ESPN rankings boards out of your critical editions. <br>
+
+A ten-fold nuanced hierarchy of subjectivity and indecision <br>
+serves to stunt scientific progress, not make it.<br>
+
+*By comparison*, the PTA's meticulous TEI-XML schema allows for *two* levels of editorial confidence: <em>two</em>, as in <= 2. They are, to wit: "high" and "low".
+
+# What Can We Do <br>with Normalized Marcionite Data?
+
+## Archive It for the Public & Scholarly Record
+<br>
+Upload it (closed, open, embargoed--you decide) in an open science repository such as Zenodo, Dataverse, Figshare, HAL, OSF, arXiv, Humanities Commons CORE, or even a University repository. 
+
+Most of these provide free DOI minting and MD5 hashes to make datasets identifiable as discrete datasets, ensure file and data integrity, and allow for automated and persistent global link resolution.
+
+Also realize that, however useful Academia.edu and ResearchGate.net might be, they are fundamentally self-managed social media and academic profile platforms, *not* Open Science repositories.
+
+## Marcion's Evangelion in Harvard Dataverse
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Bilby (2021), <br>
+von Harnack's *Evangelion* (1924) <br>
+in Harvard Dataverse <br>
+@ doi: [10.7910/DVN/5TEA5A](https://doi.org/10.7910/DVN/5TEA5A)](images/Harnack_Ev_Dataverse.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Bilby & BeDuhn (2023), <br>
+BeDuhn's Greek *Evangelion* (2023) <br>
+in Harvard Dataverse <br>
+@ doi: [10.7910/DVN/UQVGW6](https://doi.org/10.7910/DVN/UQVGW6)](images/BeDuhn_Ev_Dataverse.png)</center>
+:::
+
+::::
+
+## Marcion's Apostolos in Harvard Dataverse
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Bilby, Bull, & Lotharp (2023), <br>
+Zahn's, van Manen's, & Harnack's *Apostolos* <br> 
+in Harvard Dataverse <br>
+@ doi: [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW)](images/Apostolos_MZH_Dataverse.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Lotharp, Bilby, Bull, & Vinzent (2024), <br> 
+Vinzent's original *Apostolos* (2023) <br>
+in Harvard Dataverse <br>
+@ doi: [10.7910/DVN/2VKBVN](https://doi.org/10.7910/DVN/2VKBVN)](images/Vinzent_Apostolos_orig_IA.png)</center>
+:::
+
+::::
+
+## Submit it for Peer-Review
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Bilby & BeDuhn, "BeDuhn's <br>
+Greek Reconstruction of Marcion's Gospel",<br>
+*Journal of Open Humanities Data* (2023)<br>
+@ doi [10.5334/johd.126](https://doi.org/10.5334/johd.126)](images/BeDuhn_Ev_JOHD.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Lotharp, Bull, & Bilby, "Normalized
+Datasets of <br> Zahn's, van Manen's, and Harnack's <br>
+Reconstructions of Marcion's Apostolos",<br>
+*Journal of Open Humanities Data* (2023)<br>
+@ doi [10.5334/johd.122](https://doi.org/10.5334/johd.122)](images/JOHD_MZH_Apostolos.png)</center>
+:::
+
+::::
+
+## Review It for a Data Journal
+<br>
+
+Because JOHD practices double- and often triple-blind peer-review, <br>
+I don't know who all the reviewers of our team's datasets have been.
+
+But at least a couple of reviewers (both well-known NAPS members) have disclosed their identities to me.
+
+Blind peer-review is important, but there is broader movement in the scientific and grant-funding communities for *open/transparent peer-review*. 
+
+Peer-review, of course, does not mean endorsement, but simply confirmation that scholarly standards of rigor and research integrity are met.
+
+## Cite It
+<br>
+
+<center>Since the advent of the Linked Open Data movement, <br><br>
+
+datasets and code packages are *citable academic resources*!</center>
+
+## Upload, Enrich, and Update It on Github
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![[nauarchus/Marcion_Evangelion](https://github.com/nauarchus/Marcion_Evangelion) on {{< fa brands github >}} ](images/Github_Marcion_Evangelion.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![[nauarchus/Marcion_Apostolos](https://github.com/nauarchus/Marcion_Apostolos) on {{< fa brands github >}}](images/Github_Marcion_Apostolos.png)</center>
+:::
+
+::::
+
+## Download & Sync It
+<br>
+
+ - Harvard Dataverse archival download
+   - Dataverse packages in R and Python
+ - Github current repo clone & sync
+ - Jupyter notebook demo (yesterday's DH presentation)
+
+## Refine It with Your Friends/Team
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![morphological query log on {{< fa brands github >}} <br> 
+@ [Marcion_Apostolos/grc6_change_logs](https://github.com/nauarchus/Marcion_Apostolos/tree/public/grc6_change_logs)](images/grc6_queries.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![query hits pre- vs. post- on {{< fa brands github >}} <br> 
+@ [Marcion_Apostolos/grc6_change_logs](https://github.com/nauarchus/Marcion_Apostolos/tree/public/grc6_change_logs)](images/grc6_queries_hits.png)</center>
+:::
+
+::::
+
+## Refine It with Your Friends/Team (cont.)
+
+<center>![editorial proposals log on {{< fa brands github >}} 
+@ [Marcion_Apostolos/grc6_change_logs](https://github.com/nauarchus/Marcion_Apostolos/tree/public/grc6_change_logs)](images/grc6_proposals.png)</center>
+
+<center>![proposal change log on {{< fa brands github >}} 
+@ [Marcion_Apostolos/grc6_change_logs](https://github.com/nauarchus/Marcion_Apostolos/tree/public/grc6_change_logs)](images/grc6_proposals_changes.png)</center>
+
+## Navigate Data Ontologies & Interoperability
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![Perseus issue discussions on {{< fa brands github >}} <br> 
+@ [PerseusDL/canonical-greekLit/issues](https://github.com/PerseusDL/canonical-greekLit/issues/1717)](images/Github_Perseus_issue.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![PTA issue discussions on {{< fa brands github >}} <br> 
+@ [PatristicTextArchive/pta_data/issues](https://github.com/PatristicTextArchive/pta_data/issues/11#issuecomment-2540081836)](images/Github_PTA_issue.png)</center>
+:::
+
+::::
+
+## Release It to a DH Project
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![src_data repo hooktest & release on {{< fa brands github >}} <br> 
+@ [nauarchus/src_data/actions](https://github.com/nauarchus/src_data/actions/)](images/Github_sync_hooktest.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![Scaife dev server sha update {{< fa brands github >}} <br> 
+@ [/scaife-viewer/scaife-viewer](https://github.com/scaife-viewer/scaife-viewer/blob/dev/data/content-manifests/production.yaml)](images/Github_Scaife_sha_update.png)</center>
+:::
+
+::::
+
+## Read It in Your Favorite UI
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![[Perseus Scaife dev server](https://github.com/PerseusDL/canonical-greekLit/issues/1717)
+<br> Apostolos editions](images/Scaife_Apostolos.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![[Perseus Scaife dev server](https://github.com/PerseusDL/canonical-greekLit/issues/1717)
+<br> Harnack's Apostolos](images/Scaife_Apostolos_Harnack.png)</center>
+:::
+
+::::
+
+## Count Words and Letters by Edition
+<br><br>
+
+<center>![Count words and letters by edition<br>](images/count_tokens.png)</center>
+
+## Count Verses and Word across Editions
+<br>
+
+<center>![Apostolos editions: verse & word counts <br>](images/verse_word_cnt_plot.png)</center>
+
+## Match Tokens and Map Similarity Scores
+<br>
+
+:::: columns
+
+::: {.column width="50%"}
+<center>![word match heatmap](images/word_match_heatmap.png)</center>
+:::
+
+::: {.column width="50%"}
+<center>![lemma match heatmap](images/lemma_match_heatmap.png)</center>
+:::
+
+::::
+
+## Model Unsupervised Topics
+<br>
+
+<center>![Apostolos Paul vs. Canonical Paul <br> Topic Modeling gamma chart<br>](images/topic_modeling_gamma_chart.png)</center>
+
+## And So Much More
+<br><br>
+
+<center>*to help create a future where science and religion harmonize*</center>
+
+# Call for Research Collaborations
+<br><br>
+
+*Ways researchers, faculty, and classes/students can help!*
+
+- XML encodings of attestations by Epiphanius, Tertullian, etc.
+- XML editions of the Nag Hammadi Codices and other 2nd-4th century texts
+- manuscript transcriptions of Luke and the canonical Letters of Paul
+- adding new annotation layers
+- building knowledge graphs
+- connecting with/to LOD ontologies
+- collaborating on digital critical editions
+- statistical/quantitative analysis
+- convening/funding international projects akin to Q & IGNTP
+
+*If you would like to help, please reach out to Markus Vinzent and/or Mark Bilby <br>
+with your CV and a letter of interest!*
