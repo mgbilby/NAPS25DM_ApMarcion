@@ -19,6 +19,6 @@ License: CC BY-SA 4.0
 
 Acknowledgements: Quarto template repurposed from that of A. von Stockhausen @ BBAW
 
-[![DOI](https://zenodo.org/badge/989844857.svg)](https://doi.org/10.5281/zenodo.15513295)
+[![DOI](https://zenodo.org/badge/990226394.svg)](https://doi.org/10.5281/zenodo.15513869)
 
-Citation: Bilby, Mark G.. "Data Mining Marcion's Apostolos." Presented at the North American Patristics Society, Chicago, IL, May 23, 2025. doi: [10.5281/zenodo.15513295](https://doi.org/10.5281/zenodo.15513295)
+Citation: Bilby, Mark G.. "Data Mining Marcion's Apostolos." Presented at the North American Patristics Society, Chicago, IL, May 23, 2025. doi: [10.5281/zenodo.15513869](https://doi.org/10.5281/zenodo.15513869)
